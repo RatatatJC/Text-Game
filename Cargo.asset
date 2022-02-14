@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec2e4f393ed4574d949ee13b7d07557, type: 3}
+  m_Name: Cargo
+  m_EditorClassIdentifier: 
+  gameText: I finally made it! It seems like the last thing I have to do is to fix
+    the lock on this door, but it looks like the lock is heavily damaged. Attempting
+    to fix it might cause it to be locked forever. Should I go left to the lock or
+    go right and wait for help?
+  otherStates:
+  - {fileID: 11400000, guid: da079adf09852194b81fbba0c7afd4d8, type: 2}
+  - {fileID: 11400000, guid: b2657d0f7b42de04fb0f974308b5a88e, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec2e4f393ed4574d949ee13b7d07557, type: 3}
+  m_Name: Damage3
+  m_EditorClassIdentifier: 
+  gameText: 'Well, the main bridge is still busted. I could try a leap of faith towards
+    the entrance or shamefully crawl back into vents. Should I go left and jump or
+    go right and take my chances in the vents? '
+  otherStates:
+  - {fileID: 11400000, guid: a6049b672b22a474e88956f7f369bca4, type: 2}
+  - {fileID: 11400000, guid: 1ee3563cf0e90f44e813c9f27234935f, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bec2e4f393ed4574d949ee13b7d07557, type: 3}
+  m_Name: Vent
+  m_EditorClassIdentifier: 
+  gameText: "I forgot to say that I\u2019m very claustrophobic and these vents are
+    really getting to me. I do see a light at the other end, but I feel like turning
+    back. Should I go left and keep pushing forward or right to go back?"
+  otherStates:
+  - {fileID: 11400000, guid: d162bf567a4d17d46921678e07bc6205, type: 2}
+  - {fileID: 11400000, guid: 83a8eb2c076b347469c266986a1de61b, type: 2}
